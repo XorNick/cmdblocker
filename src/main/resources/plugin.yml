@@ -1,0 +1,3 @@
+name: CmdBlocker
+version: ${project.version}
+main: net.xornick.cmdblocker.CmdBlocker
